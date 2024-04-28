@@ -1,6 +1,6 @@
 # Technical Assignment
 
-This repository contains the codebase for the Technical Assignment project.
+This repository contains the codebase for the Technical Assignment project 'construction'.
 
 ## Instructions
 
@@ -26,6 +26,7 @@ git clone https://github.com/shafi-88/technical-assignment.git
 8. Add the header `x-api-key: test`.
 
 9. Invoke the HTTP GET method at `localhost:8080/report` to retrieve the report for existing data.
+
 **Note:** Existing data refers to sample input data provided in assignment file.
 
 10. To test with custom data:
