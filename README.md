@@ -18,14 +18,16 @@ git clone https://github.com/shafi-88/technical-assignment.git
 5. Choose `Gradle` as the build tool.
 
 6. In the terminal inside the project path `construction\`, execute the following commands:
+```
 .\gradlew build
 .\gradlew bootRun
+```
 
-7. Open Postman.
+8. Open Postman.
 
-8. Add the header `x-api-key: test`.
+9. Add the header `x-api-key: test`.
 
-9. Invoke the HTTP GET method at `localhost:8080/report` to retrieve the report for existing data.
+10. Invoke the HTTP GET method at `localhost:8080/report` to retrieve the report for existing data.
 
 **Note:** Existing data refers to sample input data provided in assignment file.
 
